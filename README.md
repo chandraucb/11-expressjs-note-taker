@@ -3,8 +3,7 @@
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](http://choosealicense.com/licenses/mit/)
 
 ## Description
-An application to write and save notes. This application uses express
-This application uses Express.js as back end and saves and retrieves notes data from a JSON file.
+An application to write and save notes. This application uses Express.js as back end and saves and retrieves notes data from a JSON file.
 
 ## Table of Contents
  - [Installation](#installation)
