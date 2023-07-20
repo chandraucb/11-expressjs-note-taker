@@ -17,6 +17,8 @@ Clone the github repo as shown below, <br/><br/> ``` git clone git@github.com:ch
 ## Usage
 Application is deployed using Heroku and can be accessed using below link, https://chandraucb-expressjs-notetaker-188ca57def12.herokuapp.com
 
+![screenshot](assets/images/screenshot2.png) 
+
 ![screenshot](assets/images/screenshot.png) 
 
 ## Credits
